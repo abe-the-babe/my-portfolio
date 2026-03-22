@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Artifact 2"
+date: 2026-03-23 10:00:00 +0000
+categories: applicable skills
+---
+
+This is a description of my second artifact, and the skills it hightlights.
+
+
+Check out the image below for a visual representation of the skills I have developed.
+![Creating a Repo](a/workspaces/my-portfolio/_site/assets/images/Screenshot 2026-03-22 at 2.50.50 PM.png)
+
