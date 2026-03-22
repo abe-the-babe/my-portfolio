@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Artifact 1"
+date:   2026-03-22 21:09:46 +0000
+categories: jekyll update
+---
+This is a description of my first artifact, and the skills it hightlights.
+
+
+Check out the [Google-Drive-Link]
+
+
+[Google-Drive-Link]: https://docs.google.com/presentation/d/1x7Zh-ZUMFKtwLFhnNN4c5WzT9e5cCIQd-YhCEOhH5Zw/edit?usp=sharing
+
