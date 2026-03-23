@@ -1,2 +1,2 @@
 # my-portfolio
-Tutorial site for r=creating online portfolio.
+Tutorial site for recreating online portfolio.
