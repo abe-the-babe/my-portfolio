@@ -4,7 +4,8 @@ title:  "Artifact 2"
 date:   2026-03-22 21:09:46 +0000
 categories: applicable skills or themes
 ---
-Description of my second artifact.
+Description of my second artifact, and the peritnent skills and/or outcomes.
 
-Check out the [Google-Drive-Link]
+![YML Usage Example](/assets/yml slit screen.png)
+
 
