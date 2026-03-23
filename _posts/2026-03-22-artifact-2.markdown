@@ -6,6 +6,6 @@ categories: applicable skills or themes
 ---
 Description of my second artifact, and the peritnent skills and/or outcomes.
 
-![YML Usage Example](/split-screen.png)
+![YML Usage Example](/_site/assets/split-screen.png)
 
 
